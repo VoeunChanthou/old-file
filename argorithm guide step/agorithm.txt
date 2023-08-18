@@ -1,0 +1,64 @@
+Exercise 1 
+  1. set input of sting 
+  2. Display each value  of string one by one
+  3. check number pick up number
+  4. repeat number 
+  5. number of text 
+
+Exercise 2
+  1. Get value of text from input as sting
+  2. Display each value of string one by one
+  3. check value. If quote, it remove the text inside quote
+  4. get the text that outside of the quote
+
+Exercise 3
+  1. Get value of text from input as string
+  2. Display each value of string one by one
+  3. Get the text "Rady"
+  4. Compare is Rady "Yes" and no Rady "No"
+
+Exercise 4
+  1. Get value of text from input as string 
+  2. Display value one by one
+  3. Get the that contain only "!"
+  4. compare is ! "True" and not ! "False"
+
+Exercise 5
+  1. Get two input. one for number and other one for text
+  2. repeat number
+  3. get number of text
+
+Exercise 6
+  1. set input of number
+  2. repeat number
+  3. repeat one time print repeat number of "X"
+ Examplay: 
+       input = 3
+        xxx
+        xxx
+        xxx 
+
+Exercise 7
+  1. Set input number
+  2. repeat number
+  3. print number of "X"
+
+Exercise 8
+  1. set input string
+  2. len string
+  3. repeat len string 
+  4. print number of "Y"
+
+Exercise 9
+  1. set input number
+  2. compare number
+
+Exercise 10
+  1. set input sting
+  2. len string
+  3. repeat len string  and increamet number one
+
+Exercise 11
+  1. set input string 
+  2. Display string one by one
+  3. It start or after space we convert that text to uppercase 
